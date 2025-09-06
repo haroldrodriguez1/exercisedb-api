@@ -1,152 +1,304 @@
 [
   {
-    "name": "shins"
+    "name": "espinillas"
   },
   {
-    "name": "hands"
+    "name": "manos"
   },
   {
-    "name": "sternocleidomastoid"
+    "name": "esternocleidomastoideo"
   },
   {
-    "name": "soleus"
+    "name": "sóleo"
   },
   {
-    "name": "inner thighs"
+    "name": "interior de los muslos"
   },
   {
-    "name": "lower abs"
+    "name": "abdominales inferiores"
   },
   {
-    "name": "grip muscles"
+    "name": "músculos de agarre"
   },
   {
-    "name": "abdominals"
+    "name": "abdominales"
   },
   {
-    "name": "wrist extensors"
+    "name": "extensores de muñeca"
   },
   {
-    "name": "wrist flexors"
+    "name": "flexores de muñeca"
   },
   {
-    "name": "latissimus dorsi"
+    "name": "dorsal ancho"
   },
   {
-    "name": "upper chest"
+    "name": "pecho superior"
   },
   {
-    "name": "rotator cuff"
+    "name": "manguito rotador"
   },
   {
-    "name": "wrists"
+    "name": "muñecas"
   },
   {
-    "name": "groin"
+    "name": "ingle"
   },
   {
-    "name": "brachialis"
+    "name": "braquial"
   },
   {
-    "name": "deltoids"
+    "name": "deltoides"
   },
   {
-    "name": "feet"
+    "name": "pies"
   },
   {
-    "name": "ankles"
+    "name": "tobillos"
   },
   {
-    "name": "trapezius"
+    "name": "trapecio"
   },
   {
-    "name": "rear deltoids"
+    "name": "deltoides posterior"
   },
   {
-    "name": "chest"
+    "name": "pecho"
   },
   {
-    "name": "quadriceps"
+    "name": "cuádriceps"
   },
   {
-    "name": "back"
+    "name": "espalda"
   },
   {
     "name": "core"
   },
   {
-    "name": "shoulders"
+    "name": "hombros"
   },
   {
-    "name": "ankle stabilizers"
+    "name": "estabilizadores de tobillo"
   },
   {
-    "name": "rhomboids"
+    "name": "romboides"
   },
   {
-    "name": "obliques"
+    "name": "oblicuos"
   },
   {
-    "name": "lower back"
+    "name": "espalda baja"
   },
   {
-    "name": "hip flexors"
+    "name": "flexores de cadera"
   },
   {
-    "name": "levator scapulae"
+    "name": "elevador de la escápula"
   },
   {
-    "name": "abductors"
+    "name": "abductores"
   },
   {
-    "name": "serratus anterior"
+    "name": "serrato anterior"
   },
   {
-    "name": "traps"
+    "name": "trapecios"
   },
   {
-    "name": "forearms"
+    "name": "antebrazos"
   },
   {
-    "name": "delts"
+    "name": "deltoides"
   },
   {
-    "name": "biceps"
+    "name": "bíceps"
   },
   {
-    "name": "upper back"
+    "name": "espalda alta"
   },
   {
-    "name": "spine"
+    "name": "columna"
   },
   {
-    "name": "cardiovascular system"
+    "name": "sistema cardiovascular"
   },
   {
-    "name": "triceps"
+    "name": "tríceps"
   },
   {
-    "name": "adductors"
+    "name": "aductores"
   },
   {
-    "name": "hamstrings"
+    "name": "isquiotibiales"
   },
   {
-    "name": "glutes"
+    "name": "glúteos"
   },
   {
-    "name": "pectorals"
+    "name": "pectorales"
   },
   {
-    "name": "calves"
+    "name": "pantorrillas"
   },
   {
-    "name": "lats"
+    "name": "dorsales"
   },
   {
-    "name": "quads"
+    "name": "cuádriceps"
   },
   {
-    "name": "abs"
+    "name": "abdominales"
+  }
+]
+[
+  {
+    "name": "espinillas"
+  },
+  {
+    "name": "manos"
+  },
+  {
+    "name": "esternocleidomastoideo"
+  },
+  {
+    "name": "sóleo"
+  },
+  {
+    "name": "interior de los muslos"
+  },
+  {
+    "name": "abdominales inferiores"
+  },
+  {
+    "name": "músculos de agarre"
+  },
+  {
+    "name": "abdominales"
+  },
+  {
+    "name": "extensores de muñeca"
+  },
+  {
+    "name": "flexores de muñeca"
+  },
+  {
+    "name": "dorsal ancho"
+  },
+  {
+    "name": "pecho superior"
+  },
+  {
+    "name": "manguito rotador"
+  },
+  {
+    "name": "muñecas"
+  },
+  {
+    "name": "ingle"
+  },
+  {
+    "name": "braquial"
+  },
+  {
+    "name": "deltoides"
+  },
+  {
+    "name": "pies"
+  },
+  {
+    "name": "tobillos"
+  },
+  {
+    "name": "trapecio"
+  },
+  {
+    "name": "deltoides posterior"
+  },
+  {
+    "name": "pecho"
+  },
+  {
+    "name": "cuádriceps"
+  },
+  {
+    "name": "espalda"
+  },
+  {
+    "name": "core"
+  },
+  {
+    "name": "hombros"
+  },
+  {
+    "name": "estabilizadores de tobillo"
+  },
+  {
+    "name": "romboides"
+  },
+  {
+    "name": "oblicuos"
+  },
+  {
+    "name": "espalda baja"
+  },
+  {
+    "name": "flexores de cadera"
+  },
+  {
+    "name": "elevador de la escápula"
+  },
+  {
+    "name": "abductores"
+  },
+  {
+    "name": "serrato anterior"
+  },
+  {
+    "name": "trapecios"
+  },
+  {
+    "name": "antebrazos"
+  },
+  {
+    "name": "deltoides"
+  },
+  {
+    "name": "bíceps"
+  },
+  {
+    "name": "espalda alta"
+  },
+  {
+    "name": "columna"
+  },
+  {
+    "name": "sistema cardiovascular"
+  },
+  {
+    "name": "tríceps"
+  },
+  {
+    "name": "aductores"
+  },
+  {
+    "name": "isquiotibiales"
+  },
+  {
+    "name": "glúteos"
+  },
+  {
+    "name": "pectorales"
+  },
+  {
+    "name": "pantorrillas"
+  },
+  {
+    "name": "dorsales"
+  },
+  {
+    "name": "cuádriceps"
+  },
+  {
+    "name": "abdominales"
   }
 ]
