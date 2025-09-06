@@ -1,86 +1,86 @@
 [
   {
-    "name": "stepmill machine"
+    "name": "escaladora"
   },
   {
-    "name": "elliptical machine"
+    "name": "elíptica"
   },
   {
-    "name": "trap bar"
+    "name": "barra hexagonal"
   },
   {
-    "name": "tire"
+    "name": "neumático"
   },
   {
-    "name": "stationary bike"
+    "name": "bicicleta estática"
   },
   {
-    "name": "wheel roller"
+    "name": "rueda abdominal"
   },
   {
-    "name": "smith machine"
+    "name": "máquina smith"
   },
   {
-    "name": "hammer"
+    "name": "martillo"
   },
   {
-    "name": "skierg machine"
+    "name": "máquina de remo indoor"
   },
   {
-    "name": "roller"
+    "name": "rodillo"
   },
   {
-    "name": "resistance band"
+    "name": "banda de resistencia"
   },
   {
-    "name": "bosu ball"
+    "name": "bosu"
   },
   {
-    "name": "weighted"
+    "name": "con peso"
   },
   {
-    "name": "olympic barbell"
+    "name": "barra olímpica"
   },
   {
     "name": "kettlebell"
   },
   {
-    "name": "upper body ergometer"
+    "name": "ergómetro de tren superior"
   },
   {
-    "name": "sled machine"
+    "name": "trineo de arrastre"
   },
   {
-    "name": "ez barbell"
+    "name": "barra ez"
   },
   {
-    "name": "dumbbell"
+    "name": "mancuerna"
   },
   {
-    "name": "rope"
+    "name": "cuerda"
   },
   {
-    "name": "barbell"
+    "name": "barra"
   },
   {
-    "name": "band"
+    "name": "banda"
   },
   {
-    "name": "stability ball"
+    "name": "bola de estabilidad"
   },
   {
-    "name": "medicine ball"
+    "name": "balón medicinal"
   },
   {
-    "name": "assisted"
+    "name": "asistido"
   },
   {
-    "name": "leverage machine"
+    "name": "máquina de palanca"
   },
   {
     "name": "cable"
   },
   {
-    "name": "body weight"
+    "name": "peso corporal"
   }
 ]
