@@ -1,32 +1,32 @@
 [
   {
-    "name": "neck"
+    "name": "cuello"
   },
   {
-    "name": "lower arms"
+    "name": "antebrazos"
   },
   {
-    "name": "shoulders"
+    "name": "hombros"
   },
   {
     "name": "cardio"
   },
   {
-    "name": "upper arms"
+    "name": "brazos superiores"
   },
   {
-    "name": "chest"
+    "name": "pecho"
   },
   {
-    "name": "lower legs"
+    "name": "pantorrillas"
   },
   {
-    "name": "back"
+    "name": "espalda"
   },
   {
-    "name": "upper legs"
+    "name": "piernas superiores"
   },
   {
-    "name": "waist"
+    "name": "cintura"
   }
 ]
